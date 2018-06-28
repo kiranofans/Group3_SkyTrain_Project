@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".TransLinkMapActivity"
+    tools:context=".TransLinkActivity"
     tools:showIn="@layout/activity_trans_link_map">
 
 </android.support.constraint.ConstraintLayout>

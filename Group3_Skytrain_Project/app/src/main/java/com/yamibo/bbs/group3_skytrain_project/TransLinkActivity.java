@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-public class TransLinkMapActivity extends AppCompatActivity {
+public class TransLinkActivity extends AppCompatActivity {
 
     //Shu's api key
     private static String mapApiKey="fH8nhLCTC142J3YXmtLC";

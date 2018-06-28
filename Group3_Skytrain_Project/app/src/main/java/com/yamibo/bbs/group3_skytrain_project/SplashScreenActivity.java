@@ -173,7 +173,7 @@ public class SplashScreenActivity extends AppCompatActivity {
 
             @Override
             public void onFinish(){
-                Intent intent=new Intent(getBaseContext(),TransLinkMapActivity.class);
+                Intent intent=new Intent(getBaseContext(),TransLinkActivity.class);
                 startActivity(intent);
                 finish();
             }

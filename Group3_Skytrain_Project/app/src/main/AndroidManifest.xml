@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TransLinkMapActivity"
+            android:name=".TransLinkActivity"
             android:label="SkyTrain Map"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
