@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/m_home"
+        android:title="Home"
+        android:icon="@drawable/home_icon" />
+
+    <item android:id="@+id/m_location"
+        android:icon="@drawable/stop_icon"
+        android:title="Location"/>
+
+    <item android:id="@+id/m_stopN"
+        android:icon="@drawable/bus_icon"
+        android:title="Stop No"
+        />
+    <item android:id="@+id/m_nearby"
+        android:icon="@drawable/nearby_icon"
+        android:title="Nearby" />
+
+    <item android:id="@+id/m_feedback"
+        android:icon="@drawable/feedback_icon"
+        android:title="Feedback" />
+    <item android:id="@+id/m_notifys"
+        android:icon="@drawable/ic_notifys"
+        android:title="Notification"/>
+</menu>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+    >
+<TableLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#000"
+    android:stretchColumns="1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_margin="1dp"
+        android:layout_height="100dp"
+       >
+        <TextView android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Stop No: "
+            android:background="#FFFF"
+            android:layout_weight="1"
+            android:layout_margin="1dp"
+            android:gravity="center_horizontal"
+            android:textSize="30dp"
+            />
+        <TextView android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#EBEBEB"
+            android:id="@+id/stop_no_label"
+            android:layout_weight="1"
+            android:text="00432"
+            android:layout_margin="1dp"
+            android:textColor="#0060A8"
+            android:gravity="center_horizontal"
+            android:textSize="30dp"
+            />
+            />
+    </TableRow>
+    <TableRow android:layout_width="match_parent"
+        android:layout_margin="1dp">
+        <TextView android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop_name"
+            android:background="#FFFF"
+            android:text="Kingsway \n FS \n Willingdon ave"
+            android:textSize="30dp"
+            android:fontFamily="@font/cour_font"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            />
+    </TableRow>
+    <TableRow android:layout_width="match_parent"
+        android:background="#EBEBEB"
+      >
+        <TextView android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/routes_label"
+            android:layout_weight="1"
+            android:text="Routes:"
+            android:textColor="#0060A8"
+            android:textSize="30dp"
+            android:gravity="left"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+    </TableRow>
+    <TableRow android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="#EBEBEB">
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view"
+                android:paddingTop="15dp"
+                android:padding="8dp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+    </TableRow>
+</TableLayout>
+</LinearLayout>

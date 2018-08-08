@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group3_Skytrain_Project</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_trans_link_map">TransLinkMapActivity</string>
+
+    <string name="alert_sample">Single track service will be in effect between Bridgeport Station and Richmond-Brighouse Station.
+The last outbound trains will depart stations approximately 5 minutes later than normal timetable stated times.
+There is no change to the train frequency.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="serviced_by">\nCurrently Serviced By:</string>
+</resources>

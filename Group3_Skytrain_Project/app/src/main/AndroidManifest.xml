@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yamibo.bbs.group3_skytrain_project">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/luanch_icon"
+        android:label="TransLink App"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.SplashScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.TransLinkActivity"
+            android:label="SkyTrain Map"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.NearbyActivity" />
+        <activity android:name=".activities.StopDetailActivity" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB03sko-6mszpdSZXG2qShJWD18fabS9eM" />
+
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.Feedback"></activity>
+        <activity android:name=".activities.BusStopNoActivities" />
+        <activity android:name=".activities.TripPlanShowing"></activity>
+        <activity
+            android:name=".activities.LocationActivity"
+            android:label="Distance" />
+    </application>
+
+</manifest>

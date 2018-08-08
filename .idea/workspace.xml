@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b68dd9a-b202-477b-9707-00a1279a476b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/master" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/build/intermediates/manifests/full/debug/gen/com/yamibo/bbs/group3_skytrain_project/BuildConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/build/intermediates/manifests/full/debug/gen/com/yamibo/bbs/group3_skytrain_project/Manifest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/build/intermediates/manifests/full/debug/gen/com/yamibo/bbs/group3_skytrain_project/R.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/src/main/gen/com/yamibo/bbs/group3_skytrain_project/BuildConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/src/main/gen/com/yamibo/bbs/group3_skytrain_project/Manifest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/production/Group3_SkyTrain_Project/Group3_Skytrain_Project/app/src/main/gen/com/yamibo/bbs/group3_skytrain_project/R.java" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.idea/caches/build_file_checksums.ser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.idea/gradle.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/.idea/runConfigurations.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/proguard-rules.pro" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/androidTest/java/com/yamibo/bbs/group3_skytrain_project/ExampleInstrumentedTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/java/com/yamibo/bbs/group3_skytrain_project/SplashScreenActivity.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/java/com/yamibo/bbs/group3_skytrain_project/TransLinkActivity.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/layout/activity_splash_screen.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/layout/activity_trans_link_map.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/layout/content_trans_link_map.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/values/attrs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/values/colors.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/values/strings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/main/res/values/styles.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/app/src/test/java/com/yamibo/bbs/group3_skytrain_project/ExampleUnitTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/gradle.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/gradlew" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/gradlew.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Group3_Skytrain_Project/settings.gradle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/master" afterPath="$PROJECT_DIR$/master" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +24,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="95" />
+    <option name="x" value="129" />
+    <option name="y" value="47" />
     <option name="width" value="1038" />
     <option name="height" value="706" />
   </component>
@@ -101,6 +46,24 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Group3_SkyTrain_Project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="androidTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Group3_SkyTrain_Project" type="58d84e3e:PackageViewProjectNode" />
+              <item name="androidTest" type="616d4139:PackageViewModuleNode" />
+              <item name="com.yamibo.bbs.group3_skytrain_project" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -133,24 +96,6 @@
               <item name="main" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
               <item name="group3_skytrain_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Group3_SkyTrain_Project" type="58d84e3e:PackageViewProjectNode" />
-              <item name="androidTest" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Group3_SkyTrain_Project" type="58d84e3e:PackageViewProjectNode" />
-              <item name="androidTest" type="616d4139:PackageViewModuleNode" />
-              <item name="com.yamibo.bbs.group3_skytrain_project" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +223,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="95" width="1038" height="706" extended-state="0" />
+    <frame x="129" y="47" width="1038" height="706" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
